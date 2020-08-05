@@ -28,4 +28,4 @@ I'm a computer science student and a software developer with experience in:
 <br />
 <br /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAshraf&hide=c)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAshraf&hide=c)](https://github.com/anuraghazra/github-readme-stats) -->
