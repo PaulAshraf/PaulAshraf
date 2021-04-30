@@ -3,10 +3,10 @@
 I'm a computer science student and a software developer with experience in: 
 
 - ⚛️ Frontend development using React in building static websites (Gatsby), client-side rendered websites (Create React App) and server-side rendered websites (Next). In addition to State management using Redux (+ Redux Toolkit) and Redux Thunk/Saga, and testing with Jest.
-- 🔗 Backend developement using Node.
+- 🔗 Backend developement using Node and Java.
 - 💻 Dev Ops experience with AWS, Nginx and Linux.
 - 💽 Database experience with MySQL, MS SQL Server and PostgreSQL (SQL) and MongoDB (NoSQL).
-- 🖥️ Desktop Applications using Java and Python.
+- 🖥️ Desktop Applications using Java, Python and Electron.
 - 📱 Mobile Applications using React Native.
 - 🧠 Machine Learning/Deep Learing + Data Engineering large scale projects uning Python with TensorFlow, Keras, and Scikit Learn.
 - 🎮 Desktop games using OpenGL (C++) and Unity.
