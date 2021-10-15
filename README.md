@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a computer science student and a software developer with experience in: 
+Paul Ashraf here! A software engineer with experience in: 
 
-- ⚛️ Frontend development using React in building static websites (Gatsby), client-side rendered websites (Create React App) and server-side rendered websites (Next). In addition to State management using Redux (+ Redux Toolkit) and Redux Thunk/Saga, and testing with Jest.
-- 🔗 Backend developement using Node and Java.
+- ⚛️ Frontend development building modern CSR and SSR web app using React and Vue. Experienced with JS/TS, Redux/Vuex and CRA/Gatsby/Next/Nuxt.
+- 🔗 Backend developement using Ruby on Rails, Node and Java.
 - 💻 Dev Ops experience with AWS, Nginx and Linux.
 - 💽 Database experience with MySQL, MS SQL Server and PostgreSQL (SQL) and MongoDB (NoSQL).
 - 🖥️ Desktop Applications using Java, Python and Electron.
