@@ -6,10 +6,8 @@ Paul Ashraf here! A software engineer with experience in:
 - 🔗 Backend developement using Ruby on Rails, Node and Java.
 - 💻 Dev Ops experience with building apps using Docker, Kubernetes and nginx on AWS or GCP.
 - 💽 Database experience with MySQL, MS SQL Server and PostgreSQL (SQL) and MongoDB (NoSQL).
-- 🖥️ Desktop Applications using Java, Python and Electron.
 - 📱 Mobile Applications using React Native.
 - 🧠 Machine Learning/Deep Learing + Data Engineering large scale projects uning Python with TensorFlow, Keras, and Scikit Learn.
-- 🎮 Desktop games using OpenGL (C++) and Unity.
 
 Check out all my projects at [paulashraf.com](https://paulashraf.com)
 <!-- 
